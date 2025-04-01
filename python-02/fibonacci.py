@@ -21,7 +21,7 @@ arquivo_de_saida = os.path.join(pasta_de_entrada, "resultado_fibonacci.txt")
 
 resultadoFib = open(arquivo_de_saida, "w")
 
-print("Resultados")
+
 with open(arquivo_de_entrada, "r") as arquivo:
     for numeros in arquivo:
         numero = int(numeros.strip())

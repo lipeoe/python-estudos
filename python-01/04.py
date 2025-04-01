@@ -17,8 +17,8 @@ def testar_positivo(valor):
 print("Resultado")
 
 pasta_de_entrada = "python-01"
-arquivo_de_entrada = os.path.join(pasta_de_entrada, "numeros_positivos.txt")
-arquivo_de_saida = os.path.join(pasta_de_entrada, "resultado_positivo.txt")
+arquivo_de_entrada = os.path.join(pasta_de_entrada, "valores.txt")
+arquivo_de_saida = os.path.join(pasta_de_entrada, "resultado.txt")
 
 
 # ggravar no arquivo txt com resultado do teste
