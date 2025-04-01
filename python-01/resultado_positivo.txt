@@ -1,0 +1,15 @@
+10,Positivo
+45,Positivo
+23,Positivo
+78,Positivo
+90,Positivo
+99,Positivo
+65,Positivo
+10,Positivo
+5,Positivo
+8,Positivo
+47,Positivo
+63,Positivo
+84,Positivo
+75,Positivo
+95,Positivo
