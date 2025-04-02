@@ -1,0 +1,6 @@
+Código cliente: 1234 | Valor por cliente:30
+Código cliente: 2344 | Valor por cliente:480
+Código cliente: 4553 | Valor por cliente:80
+Código cliente: 2212 | Valor por cliente:200
+
+Soma Total: 790
